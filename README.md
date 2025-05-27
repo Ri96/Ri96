@@ -21,7 +21,8 @@ Results-driven Senior Full Stack Developer with 8+ years of experience in buildi
 * **Authentication & Security:** Microsoft Entra ID, OAuth
 * **Databases & Caching:** PostgreSQL, MySQL, Redis, TypeORM, Drizzel ORM
 * **Messaging & Job Queues:** GCP Pub/Sub, Kafka, BullMQ
-* **APIs:** REST, GraphQL, gRPC, WebSocket
+* **Real-Time & Communication:** WebSockets, gRPC
+* **APIs:** REST, GraphQL, gRPC
 * **Tools:** Git, GitHub, GitHub Actions, DevTools, CLI, Linux/Unix
 * **Practices:** Code Review, CI/CD, Performance Optimization, Debugging, Agile/Scrum
 
