@@ -22,7 +22,7 @@ Results-driven Senior Full Stack Developer with 8+ years of experience in buildi
 * **Databases & Caching:** PostgreSQL, MySQL, Redis, TypeORM, Drizzel ORM
 * **Messaging & Job Queues:** GCP Pub/Sub, Kafka, BullMQ
 * **Real-Time & Communication:** WebSockets, gRPC
-* **APIs:** REST, GraphQL, gRPC
+* **APIs:** REST, GraphQL
 * **Tools:** Git, GitHub, GitHub Actions, DevTools, CLI, Linux/Unix
 * **Practices:** Code Review, CI/CD, Performance Optimization, Debugging, Agile/Scrum
 
